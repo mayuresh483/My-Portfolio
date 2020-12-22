@@ -836,9 +836,10 @@ footer p span{
     }
     .hero .left {
         margin-right: -8rem;
+        margin-top:4rem;
     }
     .hero .right{
-        top:180px;
+        top:240px;
     } 
     .hero .right h1{
         font-size:2rem;
